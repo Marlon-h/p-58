@@ -1,0 +1,50 @@
+body {
+  text-align:center;
+}
+
+#pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  align-content: center;
+}
+
+p {
+  text-align:center;
+  font-size:20px;
+}
+
+h1 {
+  text-align:center;
+  text-shadow:2px 2px #4FC3F7;
+}
+
+.link {
+    float: left;
+    color: chocolate;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link:hover {
+    background-color: deepskyblue;
+}
+
+.sec {
+    background:linear-gradient(#69F0AE 0%,#18FFFF 100%);
+}
